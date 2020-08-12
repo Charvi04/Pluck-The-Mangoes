@@ -11,8 +11,8 @@ var score = 0;
 
 function preload()
 {
-	boyImg = loadImage("Images/boy.png");
-	backgroundImg = loadImage("Images/back.jpg")
+	boyImg = loadImage("boy.png");
+	backgroundImg = loadImage("back.jpg")
 }
 
 function setup() {
